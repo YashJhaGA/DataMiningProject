@@ -6,8 +6,11 @@ Before running this program, you will need to install the following libraries.
 You can run these commands.
 
 pip install numpy
+
 pip install pandas
+
 pip install pybaseball
+
 pip install scikit-learn
 
 After doing that, just run the program!
