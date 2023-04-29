@@ -3,7 +3,7 @@ Home Run Predictor
 
 
 Before running this program, you will need to install the following libraries.
-You can run these commands.
+You can run these commands in the terminal.
 
 pip install numpy
 
